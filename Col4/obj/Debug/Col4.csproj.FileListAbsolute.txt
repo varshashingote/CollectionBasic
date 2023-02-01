@@ -1,0 +1,8 @@
+C:\Users\SHIVNERI\source\repos\Col4\Col4\bin\Debug\Col4.exe.config
+C:\Users\SHIVNERI\source\repos\Col4\Col4\bin\Debug\Col4.exe
+C:\Users\SHIVNERI\source\repos\Col4\Col4\bin\Debug\Col4.pdb
+C:\Users\SHIVNERI\source\repos\Col4\Col4\obj\Debug\Col4.csproj.AssemblyReference.cache
+C:\Users\SHIVNERI\source\repos\Col4\Col4\obj\Debug\Col4.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHIVNERI\source\repos\Col4\Col4\obj\Debug\Col4.csproj.CoreCompileInputs.cache
+C:\Users\SHIVNERI\source\repos\Col4\Col4\obj\Debug\Col4.exe
+C:\Users\SHIVNERI\source\repos\Col4\Col4\obj\Debug\Col4.pdb
