@@ -1,0 +1,8 @@
+C:\Users\SHIVNERI\source\repos\Col2\Col2\bin\Debug\Col2.exe.config
+C:\Users\SHIVNERI\source\repos\Col2\Col2\bin\Debug\Col2.exe
+C:\Users\SHIVNERI\source\repos\Col2\Col2\bin\Debug\Col2.pdb
+C:\Users\SHIVNERI\source\repos\Col2\Col2\obj\Debug\Col2.csproj.AssemblyReference.cache
+C:\Users\SHIVNERI\source\repos\Col2\Col2\obj\Debug\Col2.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHIVNERI\source\repos\Col2\Col2\obj\Debug\Col2.csproj.CoreCompileInputs.cache
+C:\Users\SHIVNERI\source\repos\Col2\Col2\obj\Debug\Col2.exe
+C:\Users\SHIVNERI\source\repos\Col2\Col2\obj\Debug\Col2.pdb
